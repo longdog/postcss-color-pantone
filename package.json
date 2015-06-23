@@ -1,0 +1,31 @@
+{
+  "name": "postcss-color-pantone",
+  "version": "0.1.0",
+  "description": "PostCSS plugin to convert pantone color to rgb",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longdog/postcss-color-pantone.git"
+  },
+  "keywords": [
+    "postcss-plugin",
+	"postcss",
+	"css",
+	"pantone"
+  ],
+  "author": "longdog.us",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/longdog/postcss-color-pantone/issues"
+  },
+  "homepage": "https://github.com/longdog/postcss-color-pantone#readme",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "postcss": "^4.1.12"
+  }
+}
